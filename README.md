@@ -1,4 +1,4 @@
-Script para Encaminhamento Automatizado de Mensagens no WhatsApp
+#Script para Encaminhamento Automatizado de Mensagens no WhatsApp
 Visão Geral
 Este script em Python automatiza o processo de envio de uma mensagem predefinida para uma lista de contatos no WhatsApp Web. Ele utiliza o Selenium WebDriver para a automação do navegador e o Pyperclip para copiar texto para a área de transferência. O script envia a mensagem para o próprio usuário primeiro e, em seguida, a encaminha para os contatos especificados em blocos de cinco.
 
